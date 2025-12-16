@@ -1,0 +1,1 @@
+Bu challenge iki farkli dosyanin icerigini okuyup, birisinini baslik olarak kullanir digerini ise dosya icerigi yaparak yeni bir dosya olusturur.
